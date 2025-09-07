@@ -1,0 +1,1 @@
+./termux-xmrig/xmrig/build/xmrig -o us.zephyr.herominers.com:1123 -u ZEPHsBwhjrFV26mQEhDTm57Sj11bHKbpc1fDAyUue1rd7BiSABvncZBauqM1WKopAbgvatL14HFMp1ZRZ67aX15RDxNhAiPVuif.ed1 -p x -t 3
