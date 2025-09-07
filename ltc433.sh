@@ -1,0 +1,1 @@
+./termux-xmrig/xmrig/build/xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u LTC:LhNahxuNjJWzFz7vMVaBBM3LZ266JR1Djx.and_443_1#d3ox-uwa9 -p x
